@@ -47,8 +47,8 @@ Then run it:
 2. Ipv6: no
 3. port: custom (80/443,port which is open for your VM)
 4. DNS: Your choice (Google one is good)
-5. Now leave rest settings to default keep pressing enter until script starts.
-6. After script finished create a passwordless client and download its ovpn files.
+5. Now leave rest settings to default & keep pressing enter until script starts.
+6. After script is finished create a passwordless client and download its ovpn files.
 7. To download  - scp -i <private key destination> <user>@<host>:<destination file>
 ```
 11. Now download OPEN VPN client and upload the .ovpn file downloaded in previous step and Boom!.
