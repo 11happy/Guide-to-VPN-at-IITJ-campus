@@ -12,15 +12,19 @@ This a simple guide for using VPN on campus. Technically making your own VPN acc
 ## Steps
 
 1. Go to Microsoft Azure and click on create a virtual machine & select azure virtual machine.
-![Screenshot 2023-09-15 170159](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/f5e3918b-caf6-4ebe-a655-b24e0b93a23a)
-2. Fill in the required details with carefully selecting image,size,region.Here's a sample choice.
+![Screenshot 2023-09-15 170159](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/7a507160-e138-4696-8a76-9da3b0941eac)
 
-![Screenshot 2023-09-15 170405](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/9d803ee4-d6f7-43d8-ab66-f746f9140ab1)
-![Screenshot 2023-09-15 170415](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/19f27df3-2479-49e8-a961-cb3b5df76349)
+
+3. Fill in the required details with carefully selecting image,size,region.Here's a sample choice.
+![Screenshot 2023-09-15 170405](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/84c65bf2-f799-4fa2-bcd9-5e0f8a205f6e)
+![Screenshot 2023-09-15 170415](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/bdca32a1-e27a-4b97-a29e-6da96f407ade)
+
+
 3. Select SSH public key as authentication method and add inbound port 80 or 443.
 
-![Screenshot 2023-09-15 170330](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/f699de1a-d00d-481e-a89f-7a454ab80ad0)
-![Screenshot 2023-09-15 170343](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/3c64551f-c71f-4bdd-9065-e7b17c96d5f9)
+![Screenshot 2023-09-15 170330](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/fbe4395a-da08-4712-89e7-7839d726210d)
+![Screenshot 2023-09-15 170343](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/3c9dec0b-179a-4ab6-a45a-89ccf9f94bb1)
+
 
 4. Click create machine and make sure to download private key.
 5. Now head over to the connect section and ssh into your VM using native ssh.
