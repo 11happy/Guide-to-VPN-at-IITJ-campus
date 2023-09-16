@@ -15,7 +15,7 @@ This a simple guide for using VPN on campus. Technically making your own VPN acc
 ![Screenshot 2023-09-15 170159](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/7a507160-e138-4696-8a76-9da3b0941eac)
 
 
-3. Fill in the required details with carefully selecting image,size,region.Here's a sample choice.
+2. Fill in the required details with carefully selecting image,size,region.Here's a sample choice.
 ![Screenshot 2023-09-15 170405](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/84c65bf2-f799-4fa2-bcd9-5e0f8a205f6e)
 ![Screenshot 2023-09-15 170415](https://github.com/11happy/Guide-to-VPN-at-IITJ-campus/assets/76656712/bdca32a1-e27a-4b97-a29e-6da96f407ade)
 
